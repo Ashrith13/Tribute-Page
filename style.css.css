@@ -1,0 +1,62 @@
+header {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+}
+
+body {
+    background-color: orange;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+  
+.image {
+    width: 100%;
+    margin-top: 10px;
+}
+
+
+.middle-section{
+    border: 5px solid pink;
+    padding: 10px;
+}
+
+.middle-section h2{
+    font-size: 40px;  
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 2px;
+}
+
+p{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+    letter-spacing: 0.60px;
+}
+
+ul{
+    list-style: none;
+}
+
+h4,
+li {
+    text-align: left;
+}
+.last-section{
+    border: 5px solid blue;
+    font-size: 16px;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 30px;
+    word-spacing : 1px;
+    padding : 5px ;
+}
+
+footer {
+    background-color: #4caf50;
+    padding: 5px 5px;
+    color: white;
+    text-align: center;
+}
